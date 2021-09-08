@@ -5,7 +5,8 @@ small = 5.95
 medium = 7.95
 large = 9.95
 
-print(""" #Print simpel onderstaand menu
+#Print simpel onderstaand menu
+print("""
 |------------------------------------------------
 |                    ONS MENU
 |------------------------------------------------
